@@ -1,0 +1,2143 @@
+{
+  "The Dig Site": {
+    "Agility": "10",
+    "Herblore": "10",
+    "Thieving": "25",
+    "Quests": [
+      []
+    ]
+  },
+  "Curse of the Black Stone": {
+    "Agility": "12",
+    "Woodcutting": "34",
+    "Quests": [
+      [
+        "Impressing the Locals"
+      ]
+    ]
+  },
+  "The Lost Tribe": {
+    "Agility": "13",
+    "Mining": "17",
+    "Thieving": "13",
+    "Quests": [
+      [
+        "Goblin Diplomacy"
+      ]
+    ]
+  },
+  "Haunted Mine": {
+    "Agility": "15",
+    "Crafting": "35",
+    "Quests": [
+      [
+        "Priest in Peril",
+        "Misc:Ability to enter Morytania"
+      ]
+    ]
+  },
+  "Tai Bwo Wannai Trio": {
+    "Agility": "15",
+    "Cooking": "30",
+    "Fishing": "5",
+    "Quests": [
+      [
+        "Jungle Potion"
+      ]
+    ]
+  },
+  "Troll Stronghold": {
+    "Agility": "15",
+    "Quests": [
+      [
+        "Death Plateau"
+      ]
+    ]
+  },
+  "Mountain Daughter": {
+    "Agility": "20",
+    "Quests": [
+      []
+    ]
+  },
+  "Death to the Dorgeshuun": {
+    "Agility": "23",
+    "Thieving": "23",
+    "Quests": [
+      [
+        "The Lost Tribe"
+      ]
+    ]
+  },
+  "Ghosts Ahoy": {
+    "Agility": "25",
+    "Cooking": "20",
+    "Quests": [
+      [
+        "The Restless Ghost",
+        "Priest in Peril",
+        "Misc:Ability to enter Morytania"
+      ]
+    ]
+  },
+  "In Search of the Myreque": {
+    "Agility": "25",
+    "Quests": [
+      [
+        "Nature Spirit"
+      ]
+    ]
+  },
+  "Watchtower": {
+    "Agility": "25",
+    "Herblore": "14",
+    "Magic": "14",
+    "Mining": "40",
+    "Thieving": "15",
+    "Quests": [
+      []
+    ]
+  },
+  "The Darkness of Hallowvale": {
+    "Agility": "26",
+    "Construction": "5",
+    "Crafting": "32",
+    "Magic": "33",
+    "Mining": "20",
+    "Strength": "40",
+    "Thieving": "22",
+    "Quests": [
+      [
+        "In Aid of the Myreque"
+      ]
+    ]
+  },
+  "Troll Romance": {
+    "Agility": "28",
+    "Quests": [
+      [
+        "Troll Stronghold"
+      ]
+    ]
+  },
+  "Legacy of Seergaze": {
+    "Agility": "29",
+    "Construction": "20",
+    "Crafting": "47",
+    "Firemaking": "40",
+    "Magic": "49",
+    "Mining": "35",
+    "Slayer": "31",
+    "Quests": [
+      [
+        "The Darkness of Hallowvale"
+      ]
+    ]
+  },
+  "Dishonour among Thieves": {
+    "Agility": "30",
+    "Thieving": "30",
+    "Quests": [
+      [
+        "Hazeel Cult",
+        "Missing, Presumed Death",
+        "Misc:Ability to enter Morytania"
+      ]
+    ]
+  },
+  "Cold War": {
+    "Agility": "30",
+    "Construction": "34",
+    "Crafting": "30",
+    "Hunter": "10",
+    "Quests": [
+      []
+    ]
+  },
+  "Crocodile Tears": {
+    "Agility": "30",
+    "Fishing": "72",
+    "Hunter": "73",
+    "Woodcutting": "47",
+    "Quests": [
+      [
+        "The Jack of Spades",
+        "Spirits of the Elid",
+        "Missing My Mummy",
+        "Dealing with Scabaras",
+        "Misc:Achieve rank 3 overall Menaphos reputation",
+        "Misc:Bring Leela to Senliten's tomb",
+        "Misc:Fully restore Senliten from the 'Missing My Mummy' quest"
+      ]
+    ]
+  },
+  "Evil Dave's Big Day Out": {
+    "Agility": "30",
+    "Cooking": "30",
+    "Herblore": "30",
+    "Magic": "30",
+    "Quests": [
+      [
+        "Recipe for Disaster: Freeing Evil Dave"
+      ]
+    ]
+  },
+  "Shilo Village": {
+    "Agility": "32",
+    "Crafting": "20",
+    "Quests": [
+      [
+        "Jungle Potion"
+      ]
+    ]
+  },
+  "Horror from the Deep": {
+    "Agility": "35",
+    "Quests": [
+      [
+        "Bar Crawl (miniquest)"
+      ]
+    ]
+  },
+  "Land of the Goblins": {
+    "Agility": "36",
+    "Fishing": "36",
+    "Herblore": "37",
+    "Prayer": "30",
+    "Thieving": "36",
+    "Quests": [
+      [
+        "Another Slice of H.A.M.",
+        "Fishing Contest"
+      ]
+    ]
+  },
+  "One Small Favour": {
+    "Agility": "36",
+    "Crafting": "25",
+    "Herblore": "18",
+    "Smithing": "30",
+    "Quests": [
+      [
+        "Rune Mysteries",
+        "Shilo Village",
+        "Druidic Ritual"
+      ]
+    ]
+  },
+  "The Fremennik Isles": {
+    "Agility": "40",
+    "Construction": "20",
+    "Crafting": "46",
+    "Woodcutting": "56",
+    "Quests": [
+      [
+        "The Fremennik Trials"
+      ]
+    ]
+  },
+  "Royal Trouble": {
+    "Agility": "40",
+    "Slayer": "40",
+    "Smithing": "40",
+    "Quests": [
+      [
+        "Throne of Miscellania"
+      ]
+    ]
+  },
+  "A Guild of Our Own (miniquest)": {
+    "Agility": "40",
+    "Herblore": "46",
+    "Thieving": "62",
+    "Quests": [
+      [
+        "Lost Her Marbles (miniquest)",
+        "Partial:The Feud"
+      ]
+    ]
+  },
+  "Cabin Fever": {
+    "Agility": "42",
+    "Crafting": "45",
+    "Ranged": "40",
+    "Smithing": "50",
+    "Quests": [
+      [
+        "Pirate's Treasure",
+        "Rum Deal"
+      ]
+    ]
+  },
+  "The Path of Glouphrie": {
+    "Agility": "45",
+    "Ranged": "47",
+    "Slayer": "56",
+    "Strength": "60",
+    "Thieving": "56",
+    "Quests": [
+      [
+        "The Eyes of Glouphrie",
+        "Tree Gnome Village",
+        "Waterfall Quest"
+      ]
+    ]
+  },
+  "The Chosen Commander": {
+    "Agility": "46",
+    "Strength": "46",
+    "Thieving": "46",
+    "Quests": [
+      [
+        "Land of the Goblins"
+      ]
+    ]
+  },
+  "Recipe for Disaster": {
+    "Agility": "48",
+    "Cooking": "70",
+    "Farming": "20",
+    "Quest points": "176",
+    "Quests": [
+      [
+        "Cook's Assistant",
+        "Big Chompy Bird Hunting",
+        "Biohazard",
+        "Demon Slayer",
+        "Desert Treasure",
+        "Fishing Contest",
+        "Gertrude's Cat",
+        "Goblin Diplomacy",
+        "Horror from the Deep",
+        "Partial:Legends' Quest",
+        "Lost City",
+        "Monkey Madness",
+        "Murder Mystery",
+        "Nature Spirit",
+        "Priest in Peril",
+        "The Restless Ghost",
+        "Shadow of the Storm",
+        "Witch's House",
+        "Misc:176 quest points"
+      ]
+    ]
+  },
+  "Dealing with Scabaras": {
+    "Agility": "50",
+    "Firemaking": "21",
+    "Strength": "60",
+    "Thieving": "60",
+    "Quests": [
+      [
+        "The Feud",
+        "Contact!",
+        "Zogre Flesh Eaters"
+      ]
+    ]
+  },
+  "Desperate Measures": {
+    "Agility": "50",
+    "Archaeology": "50",
+    "Quests": [
+      [
+        "Desperate Times",
+        "Misc:Complete the Anachronia base camp|base camp tutorial on Anachronia"
+      ]
+    ]
+  },
+  "Glorious Memories": {
+    "Agility": "50",
+    "Herblore": "43",
+    "Hunter": "41",
+    "Magic": "57",
+    "Quests": [
+      [
+        "Mountain Daughter",
+        "The Fremennik Isles",
+        "Royal Trouble"
+      ]
+    ]
+  },
+  "Legends' Quest": {
+    "Agility": "50",
+    "Crafting": "50",
+    "Herblore": "45",
+    "Magic": "56",
+    "Mining": "52",
+    "Prayer": "42",
+    "Quest points": "107",
+    "Smithing": "50",
+    "Strength": "50",
+    "Thieving": "50",
+    "Woodcutting": "50",
+    "Quests": [
+      [
+        "Heroes' Quest",
+        "Family Crest",
+        "Underground Pass",
+        "Waterfall Quest",
+        "Shilo Village",
+        "Misc:107 quest points"
+      ]
+    ]
+  },
+  "Defender of Varrock": {
+    "Agility": "51",
+    "Hunter": "51",
+    "Mining": "59",
+    "Smithing": "54",
+    "Quests": [
+      [
+        "Shield of Arrav",
+        "The Knight's Sword",
+        "Demon Slayer",
+        "Temple of Ikov",
+        "Family Crest",
+        "What Lies Below",
+        "Garden of Tranquillity",
+        "Misc:Claim Kudos from Historian Minas in Varrock Museum for completing Shield of Arrav"
+      ]
+    ]
+  },
+  "Back to my Roots": {
+    "Agility": "55",
+    "Farming": "53",
+    "Slayer": "59",
+    "Woodcutting": "72",
+    "Quests": [
+      [
+        "A Fairy Tale I - Growing Pains",
+        "The Hand in the Sand",
+        "One Small Favour",
+        "Tribal Totem"
+      ]
+    ]
+  },
+  "Vengeance (saga)": {
+    "Agility": "55",
+    "Dungeoneering": "23",
+    "Thieving": "55",
+    "Quests": [
+      [
+        "Misc:Find and free Skaldrun from the frozen floors in Daemonheim"
+      ]
+    ]
+  },
+  "Regicide": {
+    "Agility": "56",
+    "Quests": [
+      [
+        "Underground Pass"
+      ]
+    ]
+  },
+  "Azzanadra's Quest": {
+    "Agility": "58",
+    "Archaeology": "58",
+    "Divination": "70",
+    "Prayer": "58",
+    "Quests": [
+      [
+        "The Vault of Shadows",
+        "Raksha, the Shadow Colossus (quest)",
+        "Desperate Creatures"
+      ]
+    ]
+  },
+  "Grim Tales": {
+    "Agility": "59",
+    "Farming": "45",
+    "Herblore": "52",
+    "Thieving": "58",
+    "Woodcutting": "71",
+    "Quests": [
+      [
+        "Witch's House"
+      ]
+    ]
+  },
+  "Rocking Out": {
+    "Agility": "60",
+    "Crafting": "66",
+    "Smithing": "69",
+    "Thieving": "63",
+    "Quests": [
+      [
+        "The Great Brain Robbery"
+      ]
+    ]
+  },
+  "The Elder Kiln": {
+    "Agility": "60",
+    "Magic": "75",
+    "Mining": "41",
+    "Quests": [
+      []
+    ]
+  },
+  "Kindred Spirits": {
+    "Agility": "60",
+    "Crafting": "60",
+    "Herblore": "60",
+    "Smithing": "60",
+    "Quests": [
+      [
+        "Missing, Presumed Death"
+      ]
+    ]
+  },
+  "The Curse of Arrav": {
+    "Agility": "61",
+    "Mining": "64",
+    "Ranged": "64",
+    "Slayer": "37",
+    "Strength": "64",
+    "Summoning": "41",
+    "Thieving": "66",
+    "Quests": [
+      [
+        "The Tale of the Muspah",
+        "Missing My Mummy",
+        "Defender of Varrock",
+        "Troll Romance",
+        "Shades of Mort'ton",
+        "Misc:Fully restore Senliten from the 'Missing My Mummy' quest"
+      ]
+    ]
+  },
+  "The Branches of Darkmeyer": {
+    "Agility": "63",
+    "Crafting": "64",
+    "Farming": "63",
+    "Fletching": "70",
+    "Magic": "70",
+    "Slayer": "67",
+    "Woodcutting": "76",
+    "Quests": [
+      [
+        "Legacy of Seergaze",
+        "Legends' Quest"
+      ]
+    ]
+  },
+  "The Firemaker's Curse": {
+    "Agility": "64",
+    "Constitution": "76",
+    "Firemaking": "74",
+    "Quests": [
+      []
+    ]
+  },
+  "The Prisoner of Glouphrie": {
+    "Agility": "64",
+    "Construction": "62",
+    "Runecrafting": "61",
+    "Thieving": "64",
+    "Quests": [
+      [
+        "The Path of Glouphrie",
+        "Roving Elves"
+      ]
+    ]
+  },
+  "Eye of Het I": {
+    "Agility": "65",
+    "Quests": [
+      [
+        "City of Senntisten"
+      ]
+    ]
+  },
+  "Within the Light": {
+    "Agility": "69",
+    "Fletching": "70",
+    "Ranged": "75",
+    "Woodcutting": "75",
+    "Quests": [
+      [
+        "Mourning's End Part II"
+      ]
+    ]
+  },
+  "Fate of the Gods": {
+    "Agility": "73",
+    "Divination": "75",
+    "Magic": "79",
+    "Slayer": "76",
+    "Summoning": "67",
+    "Quests": [
+      [
+        "Missing, Presumed Death"
+      ]
+    ]
+  },
+  "Plague's End": {
+    "Agility": "75",
+    "Construction": "75",
+    "Crafting": "75",
+    "Dungeoneering": "75",
+    "Herblore": "75",
+    "Mining": "75",
+    "Prayer": "75",
+    "Ranged": "75",
+    "Summoning": "75",
+    "Woodcutting": "75",
+    "Quests": [
+      [
+        "Within the Light",
+        "Catapult Construction",
+        "Making History"
+      ]
+    ]
+  },
+  "Ritual of the Mahjarrat": {
+    "Agility": "77",
+    "Crafting": "76",
+    "Mining": "76",
+    "Quests": [
+      [
+        "The Temple at Senntisten",
+        "While Guthix Sleeps",
+        "Hazeel Cult",
+        "Enakhra's Lament",
+        "The Slug Menace",
+        "A Fairy Tale III - Battle at Ork's Rift",
+        "Rocking Out",
+        "A Tail of Two Cats",
+        "Fight Arena"
+      ]
+    ]
+  },
+  "The Light Within": {
+    "Agility": "80",
+    "Crafting": "80",
+    "Divination": "80",
+    "Herblore": "80",
+    "Prayer": "80",
+    "Slayer": "80",
+    "Woodcutting": "80",
+    "Quests": [
+      [
+        "Meeting History",
+        "The Temple at Senntisten",
+        "Plague's End",
+        "The World Wakes",
+        "Fate of the Gods"
+      ]
+    ]
+  },
+  "Pieces of Hate": {
+    "Agility": "83",
+    "Construction": "81",
+    "Firemaking": "82",
+    "Thieving": "85",
+    "Quests": [
+      [
+        "A Clockwork Syringe",
+        "Gertrude's Cat"
+      ]
+    ]
+  },
+  "Daughter of Chaos": {
+    "Archaeology": "40",
+    "Divination": "40",
+    "Quests": [
+      []
+    ]
+  },
+  "The Vault of Shadows": {
+    "Archaeology": "58",
+    "Quests": [
+      [
+        "Misc:Ability to see the Shadow Realm inside Kharid-et"
+      ]
+    ]
+  },
+  "City of Senntisten": {
+    "Archaeology": "74",
+    "Magic": "74",
+    "Slayer": "75",
+    "Quests": [
+      [
+        "Battle of the Monolith"
+      ]
+    ]
+  },
+  "Tomes of the Warlock": {
+    "Archaeology": "86",
+    "Magic": "66",
+    "Necromancy": "75",
+    "Quests": [
+      [
+        "The Spirit of War",
+        "The Jack of Spades"
+      ]
+    ]
+  },
+  "Another Slice of H.A.M.": {
+    "Attack": "15",
+    "Prayer": "25",
+    "Quests": [
+      [
+        "Death to the Dorgeshuun",
+        "The Dig Site",
+        "The Giant Dwarf"
+      ]
+    ]
+  },
+  "Holy Grail": {
+    "Attack": "30",
+    "Quests": [
+      [
+        "Merlin's Crystal"
+      ]
+    ]
+  },
+  "Beneath Cursed Tides": {
+    "Attack": "30",
+    "Cooking": "30",
+    "Firemaking": "30",
+    "Magic": "30",
+    "Mining": "30",
+    "Smithing": "30",
+    "Strength": "30",
+    "Woodcutting": "30",
+    "Quests": [
+      []
+    ]
+  },
+  "Three's Company (saga)": {
+    "Attack": "30",
+    "Dungeoneering": "6",
+    "Magic": "30",
+    "Ranged": "30",
+    "Quests": [
+      [
+        "Misc:Find and free Skaldrun from the frozen floors in Daemonheim"
+      ]
+    ]
+  },
+  "Quiet Before the Swarm": {
+    "Attack": "35",
+    "Strength": "42",
+    "Quests": [
+      [
+        "Imp Catcher",
+        "Wanted!"
+      ]
+    ]
+  },
+  "Nadir (saga)": {
+    "Attack": "60",
+    "Dungeoneering": "35",
+    "Thieving": "45",
+    "Quests": [
+      [
+        "Misc:Find and free Skaldrun from the frozen floors in Daemonheim"
+      ]
+    ]
+  },
+  "Blood Runs Deep": {
+    "Attack": "75",
+    "Slayer": "65",
+    "Strength": "75",
+    "Quests": [
+      [
+        "Horror from the Deep",
+        "Dream Mentor",
+        "Glorious Memories",
+        "Misc:Completed easy, medium, and hard Fremennik achievements"
+      ]
+    ]
+  },
+  "The Lord of Vampyrium": {
+    "Attack": "75",
+    "Constitution": "75",
+    "Construction": "79",
+    "Defence": "75",
+    "Hunter": "76",
+    "Slayer": "78",
+    "Strength": "75",
+    "Quests": [
+      [
+        "The Branches of Darkmeyer"
+      ]
+    ]
+  },
+  "River of Blood": {
+    "Attack": "78",
+    "Constitution": "80",
+    "Firemaking": "76",
+    "Fletching": "75",
+    "Herblore": "80",
+    "Magic": "78",
+    "Mining": "72",
+    "Ranged": "78",
+    "Quests": [
+      [
+        "The Lord of Vampyrium",
+        "Defender of Varrock",
+        "All Fired Up"
+      ]
+    ]
+  },
+  "The Void Stares Back": {
+    "Attack": "78",
+    "Construction": "70",
+    "Crafting": "70",
+    "Defence": "25",
+    "Firemaking": "71",
+    "Magic": "80",
+    "Smithing": "70",
+    "Strength": "78",
+    "Summoning": "55",
+    "Quests": [
+      [
+        "A Void Dance"
+      ]
+    ]
+  },
+  "The Mighty Fall": {
+    "Attack": "79",
+    "Constitution": "78",
+    "Defence": "72",
+    "Slayer": "69",
+    "Strength": "79",
+    "Quests": [
+      [
+        "The Chosen Commander",
+        "My Arm's Big Adventure",
+        "Missing, Presumed Death",
+        "The Hunt for Surok (miniquest)"
+      ]
+    ]
+  },
+  "Dream Mentor": {
+    "Combat Level": "85",
+    "Quests": [
+      [
+        "Eadgar's Ruse",
+        "Lunar Diplomacy"
+      ]
+    ]
+  },
+  "Salt in the Wound": {
+    "Constitution": "50",
+    "Defence": "60",
+    "Dungeoneering": "35",
+    "Herblore": "47",
+    "Summoning": "45",
+    "Quests": [
+      [
+        "Kennith's Concerns"
+      ]
+    ]
+  },
+  "Tales of the God Wars (miniquest)": {
+    "Constitution": "70",
+    "Quests": [
+      [
+        "Misc:Ability to enter Morytania",
+        "Misc:Access to the God Wars Dungeon"
+      ]
+    ]
+  },
+  "The Eyes of Glouphrie": {
+    "Construction": "5",
+    "Magic": "46",
+    "Quests": [
+      [
+        "The Grand Tree"
+      ]
+    ]
+  },
+  "Perils of Ice Mountain": {
+    "Construction": "5",
+    "Farming": "5",
+    "Hunter": "5",
+    "Thieving": "11",
+    "Quests": [
+      []
+    ]
+  },
+  "Tower of Life": {
+    "Construction": "10",
+    "Quests": [
+      []
+    ]
+  },
+  "Bringing Home the Bacon": {
+    "Construction": "14",
+    "Farming": "14",
+    "Summoning": "14",
+    "Quests": [
+      []
+    ]
+  },
+  "Rune Mechanics": {
+    "Construction": "25",
+    "Magic": "27",
+    "Runecrafting": "20",
+    "Quests": [
+      []
+    ]
+  },
+  "The Great Brain Robbery": {
+    "Construction": "30",
+    "Crafting": "16",
+    "Prayer": "50",
+    "Quests": [
+      [
+        "Creature of Fenkenstrain",
+        "Cabin Fever",
+        "Recipe for Disaster: Freeing Pirate Pete"
+      ]
+    ]
+  },
+  "Carnillean Rising": {
+    "Construction": "31",
+    "Quest points": "50",
+    "Thieving": "33",
+    "Quests": [
+      [
+        "The Blood Pact",
+        "Hazeel Cult",
+        "Misc:50 quest points"
+      ]
+    ]
+  },
+  "Missing My Mummy": {
+    "Construction": "35",
+    "Cooking": "35",
+    "Crafting": "35",
+    "Magic": "35",
+    "Prayer": "35",
+    "Quests": [
+      [
+        "Icthlarin's Little Helper",
+        "The Golem",
+        "Diamond in the Rough"
+      ]
+    ]
+  },
+  "Spirit of Summer": {
+    "Construction": "40",
+    "Farming": "26",
+    "Prayer": "35",
+    "Summoning": "19",
+    "Quests": [
+      [
+        "The Restless Ghost"
+      ]
+    ]
+  },
+  "Catapult Construction": {
+    "Construction": "44",
+    "Fletching": "42",
+    "Quests": [
+      [
+        "Regicide"
+      ]
+    ]
+  },
+  "Hunt for Red Raktuber": {
+    "Construction": "45",
+    "Hunter": "45",
+    "Thieving": "38",
+    "Quests": [
+      [
+        "Cold War",
+        "Sea Slug"
+      ]
+    ]
+  },
+  "A Void Dance": {
+    "Construction": "47",
+    "Herblore": "49",
+    "Hunter": "46",
+    "Mining": "47",
+    "Summoning": "48",
+    "Thieving": "54",
+    "Woodcutting": "52",
+    "Quests": [
+      [
+        "Quiet Before the Swarm"
+      ]
+    ]
+  },
+  "TokTz-Ket-Dill": {
+    "Construction": "50",
+    "Crafting": "43",
+    "Mining": "41",
+    "Strength": "45",
+    "Quests": [
+      []
+    ]
+  },
+  "Some Like It Cold": {
+    "Construction": "50",
+    "Crafting": "56",
+    "Fishing": "65",
+    "Quests": [
+      [
+        "Hunt for Red Raktuber"
+      ]
+    ]
+  },
+  "Nomad's Requiem": {
+    "Construction": "60",
+    "Hunter": "65",
+    "Magic": "75",
+    "Mining": "66",
+    "Prayer": "70",
+    "Quests": [
+      [
+        "King's Ransom",
+        "Misc:Complete the Knight Waves training ground|Knight Waves in Camelot",
+        "Misc:Complete the Soul Wars tutorial"
+      ]
+    ]
+  },
+  "A Clockwork Syringe": {
+    "Construction": "62",
+    "Defence": "76",
+    "Dungeoneering": "50",
+    "Slayer": "61",
+    "Smithing": "74",
+    "Summoning": "65",
+    "Thieving": "74",
+    "Quests": [
+      [
+        "Rocking Out"
+      ]
+    ]
+  },
+  "Do No Evil": {
+    "Construction": "64",
+    "Crafting": "68",
+    "Magic": "70",
+    "Ranged": "50",
+    "Thieving": "70",
+    "Quests": [
+      [
+        "Animal Magnetism",
+        "Shadow of the Storm",
+        "Desert Treasure",
+        "Smoking Kills",
+        "Missing My Mummy",
+        "Dealing with Scabaras",
+        "Recipe for Disaster: Freeing King Awowogei",
+        "Misc:Fully restore Senliten from the 'Missing My Mummy' quest",
+        "Misc:Bring Leela to Senliten's tomb"
+      ]
+    ]
+  },
+  "Love Story": {
+    "Construction": "68",
+    "Crafting": "67",
+    "Magic": "77",
+    "Smithing": "68",
+    "Quests": [
+      [
+        "Swan Song",
+        "Recipe for Disaster: Freeing Sir Amik Varze"
+      ]
+    ]
+  },
+  "Nomad's Elegy": {
+    "Construction": "75",
+    "Mining": "75",
+    "Woodcutting": "75",
+    "Quests": [
+      [
+        "Dishonour among Thieves",
+        "Nomad's Requiem",
+        "Heart of Stone",
+        "The Mighty Fall",
+        "Throne of Miscellania",
+        "The Void Stares Back"
+      ]
+    ]
+  },
+  "Forgettable Tale of a Drunken Dwarf": {
+    "Cooking": "22",
+    "Farming": "17",
+    "Quests": [
+      [
+        "The Giant Dwarf",
+        "Fishing Contest"
+      ]
+    ]
+  },
+  "Big Chompy Bird Hunting": {
+    "Cooking": "30",
+    "Fletching": "5",
+    "Ranged": "30",
+    "Quests": [
+      []
+    ]
+  },
+  "Chef's Assistant": {
+    "Cooking": "32",
+    "Quests": [
+      [
+        "Cook's Assistant"
+      ]
+    ]
+  },
+  "Heroes' Quest": {
+    "Cooking": "53",
+    "Fishing": "53",
+    "Herblore": "25",
+    "Mining": "50",
+    "Quest points": "56",
+    "Quests": [
+      [
+        "Shield of Arrav",
+        "Dragon Slayer",
+        "Druidic Ritual",
+        "Lost City",
+        "Merlin's Crystal",
+        "Misc:56 quest points"
+      ]
+    ]
+  },
+  "Swan Song": {
+    "Cooking": "62",
+    "Crafting": "40",
+    "Firemaking": "42",
+    "Fishing": "62",
+    "Magic": "66",
+    "Quest points": "101",
+    "Smithing": "45",
+    "Quests": [
+      [
+        "One Small Favour",
+        "Garden of Tranquillity",
+        "Misc:101 quest points"
+      ]
+    ]
+  },
+  "Head of the Family (miniquest)": {
+    "Cooking": "91",
+    "Fishing": "90",
+    "Woodcutting": "90",
+    "Quests": [
+      [
+        "Impressing the Locals"
+      ]
+    ]
+  },
+  "Gunnar's Ground": {
+    "Crafting": "5",
+    "Quests": [
+      []
+    ]
+  },
+  "Observatory Quest": {
+    "Crafting": "10",
+    "Quests": [
+      []
+    ]
+  },
+  "The Giant Dwarf": {
+    "Crafting": "12",
+    "Firemaking": "16",
+    "Magic": "33",
+    "Thieving": "14",
+    "Quests": [
+      []
+    ]
+  },
+  "Animal Magnetism": {
+    "Crafting": "19",
+    "Ranged": "30",
+    "Slayer": "18",
+    "Woodcutting": "35",
+    "Quests": [
+      [
+        "The Restless Ghost",
+        "Ernest the Chicken",
+        "Priest in Peril",
+        "Misc:Ability to enter Morytania"
+      ]
+    ]
+  },
+  "Creature of Fenkenstrain": {
+    "Crafting": "20",
+    "Thieving": "25",
+    "Quests": [
+      [
+        "The Restless Ghost",
+        "Priest in Peril",
+        "Misc:Ability to enter Morytania"
+      ]
+    ]
+  },
+  "Elemental Workshop I": {
+    "Crafting": "20",
+    "Mining": "20",
+    "Smithing": "20",
+    "Quests": [
+      []
+    ]
+  },
+  "The Golem": {
+    "Crafting": "20",
+    "Thieving": "25",
+    "Quests": [
+      []
+    ]
+  },
+  "Shades of Mort'ton": {
+    "Crafting": "20",
+    "Herblore": "15",
+    "Quests": [
+      [
+        "Misc:Ability to enter Morytania"
+      ]
+    ]
+  },
+  "Tears of Guthix": {
+    "Crafting": "20",
+    "Firemaking": "49",
+    "Mining": "20",
+    "Quest points": "44",
+    "Quests": [
+      [
+        "Misc:44 quest points"
+      ]
+    ]
+  },
+  "In Aid of the Myreque": {
+    "Crafting": "25",
+    "Magic": "7",
+    "Mining": "15",
+    "Quests": [
+      [
+        "In Search of the Myreque"
+      ]
+    ]
+  },
+  "Smoking Kills": {
+    "Crafting": "25",
+    "Slayer": "35",
+    "Quests": [
+      [
+        "The Restless Ghost",
+        "Icthlarin's Little Helper"
+      ]
+    ]
+  },
+  "Shadow of the Storm": {
+    "Crafting": "30",
+    "Quests": [
+      [
+        "Demon Slayer",
+        "The Golem"
+      ]
+    ]
+  },
+  "The Slug Menace": {
+    "Crafting": "30",
+    "Runecrafting": "30",
+    "Slayer": "30",
+    "Thieving": "30",
+    "Quests": [
+      [
+        "Sea Slug",
+        "Wanted!"
+      ]
+    ]
+  },
+  "Lost City": {
+    "Crafting": "31",
+    "Woodcutting": "36",
+    "Quests": [
+      []
+    ]
+  },
+  "Enlightened Journey": {
+    "Crafting": "36",
+    "Farming": "30",
+    "Firemaking": "20",
+    "Quest points": "21",
+    "Quests": [
+      [
+        "Misc:21 quest points"
+      ]
+    ]
+  },
+  "A Fairy Tale III - Battle at Ork's Rift": {
+    "Crafting": "36",
+    "Farming": "54",
+    "Magic": "59",
+    "Summoning": "37",
+    "Thieving": "51",
+    "Quests": [
+      [
+        "A Fairy Tale II - Cure a Queen"
+      ]
+    ]
+  },
+  "The Fremennik Trials": {
+    "Crafting": "40",
+    "Fletching": "25",
+    "Woodcutting": "40",
+    "Quests": [
+      []
+    ]
+  },
+  "Elemental Workshop IV": {
+    "Crafting": "41",
+    "Defence": "40",
+    "Runecrafting": "39",
+    "Smithing": "42",
+    "Thieving": "39",
+    "Quests": [
+      [
+        "Elemental Workshop III"
+      ]
+    ]
+  },
+  "Rum Deal": {
+    "Crafting": "42",
+    "Farming": "40",
+    "Fishing": "50",
+    "Prayer": "47",
+    "Slayer": "42",
+    "Quests": [
+      [
+        "Zogre Flesh Eaters",
+        "Priest in Peril",
+        "Misc:Ability to enter Morytania"
+      ]
+    ]
+  },
+  "The Hand in the Sand": {
+    "Crafting": "49",
+    "Thieving": "17",
+    "Quests": [
+      []
+    ]
+  },
+  "Enakhra's Lament": {
+    "Crafting": "50",
+    "Firemaking": "45",
+    "Magic": "39",
+    "Prayer": "43",
+    "Quests": [
+      []
+    ]
+  },
+  "In Pyre Need": {
+    "Crafting": "52",
+    "Firemaking": "55",
+    "Fletching": "53",
+    "Quests": [
+      []
+    ]
+  },
+  "Lunar Diplomacy": {
+    "Crafting": "61",
+    "Defence": "40",
+    "Firemaking": "49",
+    "Herblore": "5",
+    "Magic": "65",
+    "Mining": "60",
+    "Woodcutting": "55",
+    "Quests": [
+      [
+        "The Fremennik Trials",
+        "Lost City",
+        "Shilo Village"
+      ]
+    ]
+  },
+  "Sins of the Father": {
+    "Crafting": "85",
+    "Invention": "85",
+    "Runecrafting": "85",
+    "Smithing": "85",
+    "Quests": [
+      [
+        "Desperate Measures"
+      ]
+    ]
+  },
+  "Jed Hunter (miniquest)": {
+    "Crafting": "91",
+    "Hunter": "90",
+    "Quests": [
+      [
+        "Impressing the Locals",
+        "Flag Fall (miniquest)",
+        "Head of the Family (miniquest)",
+        "Spiritual Enlightenment (miniquest)"
+      ]
+    ]
+  },
+  "Between a Rock...": {
+    "Defence": "30",
+    "Mining": "40",
+    "Smithing": "50",
+    "Quests": [
+      [
+        "Dwarf Cannon",
+        "Fishing Contest"
+      ]
+    ]
+  },
+  "Elemental Workshop III": {
+    "Defence": "33",
+    "Smithing": "33",
+    "Quests": [
+      [
+        "Elemental Workshop II"
+      ]
+    ]
+  },
+  "King's Ransom": {
+    "Defence": "65",
+    "Magic": "45",
+    "Quests": [
+      [
+        "Holy Grail",
+        "Murder Mystery",
+        "One Small Favour"
+      ]
+    ]
+  },
+  "While Guthix Sleeps": {
+    "Defence": "65",
+    "Farming": "65",
+    "Herblore": "65",
+    "Hunter": "55",
+    "Magic": "75",
+    "Summoning": "23",
+    "Thieving": "60",
+    "Quests": [
+      [
+        "Defender of Varrock",
+        "Dream Mentor",
+        "The Hand in the Sand",
+        "King's Ransom",
+        "Legends' Quest",
+        "The Path of Glouphrie",
+        "Tears of Guthix",
+        "Wanted!",
+        "The Hunt for Surok (miniquest)",
+        "Misc:Ability to enter the Warriors' Guild"
+      ]
+    ]
+  },
+  "The Brink of Extinction": {
+    "Defence": "80",
+    "Mining": "72",
+    "Smithing": "80",
+    "Quests": [
+      [
+        "The Elder Kiln"
+      ]
+    ]
+  },
+  "One of a Kind": {
+    "Divination": "40",
+    "Dungeoneering": "67",
+    "Magic": "81",
+    "Summoning": "74",
+    "Quests": [
+      [
+        "A Tail of Two Cats",
+        "King's Ransom",
+        "The World Wakes",
+        "Missing, Presumed Death"
+      ]
+    ]
+  },
+  "Back to the Freezer": {
+    "Divination": "50",
+    "Runecrafting": "45",
+    "Slayer": "37",
+    "Quests": [
+      [
+        "Some Like It Cold",
+        "Ernest the Chicken"
+      ]
+    ]
+  },
+  "Desperate Times": {
+    "Divination": "50",
+    "Mining": "50",
+    "Smithing": "50",
+    "Quests": [
+      [
+        "The Needle Skips",
+        "You Are It"
+      ]
+    ]
+  },
+  "Hero's Welcome": {
+    "Divination": "60",
+    "Mining": "67",
+    "Slayer": "62",
+    "Smithing": "67",
+    "Quests": [
+      [
+        "Lunar Diplomacy",
+        "Tai Bwo Wannai Trio",
+        "Misc:Master Barbarian Training"
+      ]
+    ]
+  },
+  "Mahjarrat Memories (miniquest)": {
+    "Divination": "60",
+    "Quests": [
+      [
+        "Koschei's Troubles (miniquest)",
+        "Missing, Presumed Death"
+      ]
+    ]
+  },
+  "Twilight of the Gods": {
+    "Divination": "80",
+    "Thieving": "60",
+    "Quests": [
+      [
+        "Extinction",
+        "Broken Home",
+        "Misc:Complete the Eyes in Their Stars mystery",
+        "Misc:Meet Naressa in Senntisten"
+      ]
+    ]
+  },
+  "Tuai Leit's Own (miniquest)": {
+    "Divination": "90",
+    "Farming": "86",
+    "Woodcutting": "90",
+    "Quests": [
+      [
+        "Impressing the Locals",
+        "Harbinger (miniquest)"
+      ]
+    ]
+  },
+  "Thok It To 'Em (saga)": {
+    "Dungeoneering": "59",
+    "Strength": "70",
+    "Quests": [
+      [
+        "Misc:Find and free Skaldrun from the frozen floors in Daemonheim"
+      ]
+    ]
+  },
+  "Thok Your Block Off (saga)": {
+    "Dungeoneering": "71",
+    "Strength": "75",
+    "Quests": [
+      [
+        "Misc:Find and free Skaldrun from the frozen floors in Daemonheim"
+      ]
+    ]
+  },
+  "Remains of the Necrolord": {
+    "Dungeoneering": "77",
+    "Necromancy": "85",
+    "Quests": [
+      [
+        "Tomes of the Warlock",
+        "Vengeance (saga)",
+        "Nadir (saga)"
+      ]
+    ]
+  },
+  "Garden of Tranquillity": {
+    "Farming": "25",
+    "Quests": [
+      [
+        "Creature of Fenkenstrain"
+      ]
+    ]
+  },
+  "My Arm's Big Adventure": {
+    "Farming": "29",
+    "Woodcutting": "10",
+    "Quests": [
+      [
+        "Eadgar's Ruse",
+        "The Feud",
+        "Jungle Potion",
+        "Misc:Work on the Tai Bwo Wannai Cleanup"
+      ]
+    ]
+  },
+  "A Fairy Tale II - Cure a Queen": {
+    "Farming": "49",
+    "Herblore": "57",
+    "Thieving": "40",
+    "Quests": [
+      [
+        "A Fairy Tale I - Growing Pains"
+      ]
+    ]
+  },
+  "The Tale of the Muspah": {
+    "Firemaking": "6",
+    "Magic": "10",
+    "Mining": "8",
+    "Woodcutting": "10",
+    "Quests": [
+      []
+    ]
+  },
+  "Sea Slug": {
+    "Firemaking": "30",
+    "Quests": [
+      []
+    ]
+  },
+  "Olaf's Quest": {
+    "Firemaking": "40",
+    "Woodcutting": "50",
+    "Quests": [
+      [
+        "The Fremennik Trials"
+      ]
+    ]
+  },
+  "All Fired Up": {
+    "Firemaking": "43",
+    "Quests": [
+      [
+        "Priest in Peril"
+      ]
+    ]
+  },
+  "Summer's End": {
+    "Firemaking": "47",
+    "Hunter": "35",
+    "Mining": "45",
+    "Prayer": "55",
+    "Summoning": "23",
+    "Woodcutting": "37",
+    "Quests": [
+      [
+        "Spirit of Summer"
+      ]
+    ]
+  },
+  "Desert Treasure": {
+    "Firemaking": "50",
+    "Magic": "50",
+    "Slayer": "10",
+    "Thieving": "53",
+    "Quests": [
+      [
+        "The Dig Site",
+        "The Tourist Trap",
+        "Temple of Ikov",
+        "Priest in Peril",
+        "Waterfall Quest",
+        "Troll Stronghold"
+      ]
+    ]
+  },
+  "As a First Resort": {
+    "Firemaking": "51",
+    "Hunter": "48",
+    "Woodcutting": "58",
+    "Quests": [
+      [
+        "Zogre Flesh Eaters"
+      ]
+    ]
+  },
+  "Forgiveness of a Chaos Dwarf": {
+    "Firemaking": "61",
+    "Hunter": "61",
+    "Strength": "69",
+    "Quests": [
+      [
+        "Forgettable Tale of a Drunken Dwarf",
+        "Between a Rock..."
+      ]
+    ]
+  },
+  "Fishing Contest": {
+    "Fishing": "10",
+    "Quests": [
+      []
+    ]
+  },
+  "Deadliest Catch": {
+    "Fishing": "70",
+    "Hunter": "67",
+    "Thieving": "70",
+    "Quests": [
+      [
+        "Tower of Life"
+      ]
+    ]
+  },
+  "The Tourist Trap": {
+    "Fletching": "10",
+    "Smithing": "20",
+    "Quests": [
+      []
+    ]
+  },
+  "Zogre Flesh Eaters": {
+    "Fletching": "30",
+    "Herblore": "8",
+    "Ranged": "30",
+    "Smithing": "4",
+    "Strength": "20",
+    "Quests": [
+      [
+        "Big Chompy Bird Hunting",
+        "Jungle Potion"
+      ]
+    ]
+  },
+  "Devious Minds": {
+    "Fletching": "50",
+    "Runecrafting": "50",
+    "Smithing": "65",
+    "Quests": [
+      [
+        "Troll Stronghold",
+        "Wanted!",
+        "What's Mine is Yours",
+        "Misc:Ability to enter Morytania"
+      ]
+    ]
+  },
+  "Jungle Potion": {
+    "Herblore": "3",
+    "Quests": [
+      []
+    ]
+  },
+  "Eadgar's Ruse": {
+    "Herblore": "31",
+    "Quests": [
+      [
+        "Troll Stronghold",
+        "Druidic Ritual",
+        "Misc:Rescue Eadgar|Mad Eadgar from the Troll Stronghold (area)|Troll Stronghold"
+      ]
+    ]
+  },
+  "Eagles' Peak": {
+    "Hunter": "27",
+    "Quests": [
+      []
+    ]
+  },
+  "Elemental Workshop II": {
+    "Magic": "20",
+    "Smithing": "30",
+    "Quests": [
+      [
+        "Elemental Workshop I"
+      ]
+    ]
+  },
+  "Spirits of the Elid": {
+    "Magic": "33",
+    "Mining": "37",
+    "Ranged": "37",
+    "Thieving": "37",
+    "Quests": [
+      []
+    ]
+  },
+  "Heart of Stone": {
+    "Magic": "35",
+    "Runecrafting": "25",
+    "Quests": [
+      [
+        "Carnillean Rising",
+        "Rune Memories"
+      ]
+    ]
+  },
+  "Family Crest": {
+    "Magic": "59",
+    "Mining": "40",
+    "Smithing": "40",
+    "Quests": [
+      []
+    ]
+  },
+  "The Knight's Sword": {
+    "Mining": "10",
+    "Quests": [
+      []
+    ]
+  },
+  "Boric's Task I (miniquest)": {
+    "Mining": "30",
+    "Quests": [
+      [
+        "What's Mine is Yours"
+      ]
+    ]
+  },
+  "Boric's Task II (miniquest)": {
+    "Mining": "40",
+    "Quests": [
+      [
+        "Boric's Task I (miniquest)"
+      ]
+    ]
+  },
+  "The Hunt for Surok (miniquest)": {
+    "Mining": "42",
+    "Prayer": "43",
+    "Quests": [
+      [
+        "What Lies Below"
+      ]
+    ]
+  },
+  "Kennith's Concerns": {
+    "Mining": "46",
+    "Quests": [
+      [
+        "The Slug Menace"
+      ]
+    ]
+  },
+  "Boric's Task III (miniquest)": {
+    "Mining": "60",
+    "Quests": [
+      [
+        "Boric's Task II (miniquest)"
+      ]
+    ]
+  },
+  "Succession": {
+    "Mining": "60",
+    "Smithing": "60",
+    "Quests": [
+      [
+        "Civil War III (miniquest)",
+        "Misc:Unlock Infernal Puzzle Box Tier 5"
+      ]
+    ]
+  },
+  "King of the Dwarves": {
+    "Mining": "68",
+    "Smithing": "70",
+    "Strength": "77",
+    "Quests": [
+      [
+        "Forgiveness of a Chaos Dwarf",
+        "My Arm's Big Adventure"
+      ]
+    ]
+  },
+  "Birthright of the Dwarves": {
+    "Mining": "80",
+    "Smithing": "82",
+    "Strength": "85",
+    "Quests": [
+      [
+        "King of the Dwarves"
+      ]
+    ]
+  },
+  "Eye for an Eye (miniquest)": {
+    "Mining": "90",
+    "Quests": [
+      [
+        "Impressing the Locals",
+        "Jed Hunter (miniquest)",
+        "Misc:Discover the island of Cyclosis in player-owned port"
+      ]
+    ]
+  },
+  "Kili Row": {
+    "Necromancy": "20",
+    "Quests": [
+      [
+        "Necromancy!",
+        "Misc:Collect a set of Deathwarden robes|necromancer robes from Sostratus"
+      ]
+    ]
+  },
+  "Rune Mythos": {
+    "Necromancy": "24",
+    "Quests": [
+      [
+        "Necromancy!"
+      ]
+    ]
+  },
+  "That Old Black Magic": {
+    "Necromancy": "65",
+    "Quests": [
+      [
+        "Necromancy!",
+        "The Blood Pact"
+      ]
+    ]
+  },
+  "Vessel of the Harbinger": {
+    "Necromancy": "46",
+    "Prayer": "40",
+    "Quests": [
+      [
+        "Rune Mythos",
+        "Ghosts Ahoy"
+      ]
+    ]
+  },
+  "The Spirit of War": {
+    "Necromancy": "65",
+    "Quests": [
+      [
+        "Vessel of the Harbinger",
+        "Misc:3,000 City of Um vessel souls"
+      ]
+    ]
+  },
+  "Alpha vs Omega": {
+    "Necromancy": "95",
+    "Quests": [
+      [
+        "Remains of the Necrolord",
+        "Misc:30,000 City of Um vessel souls"
+      ]
+    ]
+  },
+  "Scorpion Catcher": {
+    "Prayer": "31",
+    "Quests": [
+      [
+        "Bar Crawl (miniquest)"
+      ]
+    ]
+  },
+  "Hopespear's Will (miniquest)": {
+    "Prayer": "40",
+    "Quests": [
+      [
+        "Land of the Goblins",
+        "A Fairy Tale I - Growing Pains",
+        "Misc:Access to the fairy ring network",
+        "Partial: Desert Treasure"
+      ]
+    ]
+  },
+  "The Temple at Senntisten": {
+    "Prayer": "50",
+    "Quests": [
+      [
+        "Devious Minds",
+        "Desert Treasure",
+        "The Curse of Arrav",
+        "Misc:125 Kudos"
+      ]
+    ]
+  },
+  "Wanted!": {
+    "Quest points": "33",
+    "Quests": [
+      [
+        "The Lost Tribe",
+        "Priest in Peril",
+        "Recruitment Drive",
+        "Enter the Abyss (miniquest)",
+        "Misc:33 quest points"
+      ]
+    ]
+  },
+  "Dragon Slayer": {
+    "Quest points": "33",
+    "Quests": [
+      [
+        "Misc:33 quest points"
+      ]
+    ]
+  },
+  "Gower Quest": {
+    "Quest points": "34",
+    "Quests": [
+      [
+        "Misc:34 quest points"
+      ]
+    ]
+  },
+  "Underground Pass": {
+    "Ranged": "25",
+    "Quests": [
+      [
+        "Biohazard"
+      ]
+    ]
+  },
+  "Temple of Ikov": {
+    "Ranged": "40",
+    "Thieving": "42",
+    "Quests": [
+      []
+    ]
+  },
+  "Mourning's End Part I": {
+    "Ranged": "60",
+    "Thieving": "50",
+    "Quests": [
+      [
+        "Roving Elves",
+        "Sheep Herder",
+        "Big Chompy Bird Hunting"
+      ]
+    ]
+  },
+  "What Lies Below": {
+    "Runecrafting": "35",
+    "Quests": [
+      []
+    ]
+  },
+  "Fur 'n Seek": {
+    "Slayer": "25",
+    "Quests": [
+      [
+        "Rag and Bone Man"
+      ]
+    ]
+  },
+  "Lair of Tarn Razorlor (miniquest)": {
+    "Slayer": "40",
+    "Quests": [
+      [
+        "Haunted Mine"
+      ]
+    ]
+  },
+  "Desert Slayer Dungeon (miniquest)": {
+    "Slayer": "70",
+    "Quests": [
+      [
+        "Smoking Kills"
+      ]
+    ]
+  },
+  "Spiritual Enlightenment (miniquest)": {
+    "Slayer": "90",
+    "Quests": [
+      [
+        "Impressing the Locals",
+        "Misc:Complete the 'Meet the Assassin' voyage in player-owned port"
+      ]
+    ]
+  },
+  "What's Mine is Yours": {
+    "Smithing": "5",
+    "Quests": [
+      []
+    ]
+  },
+  "Doric's Task I (miniquest)": {
+    "Smithing": "10",
+    "Quests": [
+      [
+        "What's Mine is Yours"
+      ]
+    ]
+  },
+  "Doric's Task II (miniquest)": {
+    "Smithing": "20",
+    "Quests": [
+      [
+        "Doric's Task I (miniquest)",
+        "Death Plateau"
+      ]
+    ]
+  },
+  "Doric's Task III (miniquest)": {
+    "Smithing": "30",
+    "Quests": [
+      [
+        "Doric's Task II (miniquest)"
+      ]
+    ]
+  },
+  "Doric's Task IV (miniquest)": {
+    "Smithing": "40",
+    "Quests": [
+      [
+        "Doric's Task III (miniquest)"
+      ]
+    ]
+  },
+  "Doric's Task V (miniquest)": {
+    "Smithing": "50",
+    "Quests": [
+      [
+        "Doric's Task IV (miniquest)"
+      ]
+    ]
+  },
+  "Doric's Task VI (miniquest)": {
+    "Smithing": "60",
+    "Quests": [
+      [
+        "Doric's Task V (miniquest)"
+      ]
+    ]
+  },
+  "Doric's Task VII (miniquest)": {
+    "Smithing": "65",
+    "Quests": [
+      [
+        "Doric's Task VI (miniquest)"
+      ]
+    ]
+  },
+  "Doric's Task VIII (miniquest)": {
+    "Smithing": "70",
+    "Quests": [
+      [
+        "Doric's Task VII (miniquest)"
+      ]
+    ]
+  },
+  "Buyers and Cellars": {
+    "Thieving": "5",
+    "Quests": [
+      []
+    ]
+  },
+  "Tribal Totem": {
+    "Thieving": "21",
+    "Quests": [
+      []
+    ]
+  },
+  "From Tiny Acorns (miniquest)": {
+    "Thieving": "24",
+    "Quests": [
+      [
+        "Buyers and Cellars"
+      ]
+    ]
+  },
+  "The Feud": {
+    "Thieving": "30",
+    "Quests": [
+      []
+    ]
+  },
+  "Lost Her Marbles (miniquest)": {
+    "Thieving": "41",
+    "Quests": [
+      [
+        "From Tiny Acorns (miniquest)"
+      ]
+    ]
+  }
+}
