@@ -8,7 +8,7 @@ function App() {
 
 
   const [quests,setQuests] = useState({})
-  const [nodes,setNodes] = useState([{id:"Impressing the Locals"}])
+  const [nodes,setNodes] = useState([])
   const [links,setLinks] = useState([])
 
   const loadInData = (data) =>{
